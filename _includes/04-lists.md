@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+* dogs
+* cats
+* birds
+* plants
+  * trees 🌳
+  * house plants 🪴
+  * flowers 🌻
